@@ -6,7 +6,6 @@ import 'package:flutter_bitcoin_ticker/helper/coin_data.dart';
 import 'dart:io' show Platform;
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_bitcoin_ticker/screen/price_screen.dart';
-import 'package:flutter_bitcoin_ticker/widget/price_card.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:menu_button/menu_button.dart';
 import 'package:rflutter_alert/rflutter_alert.dart';
